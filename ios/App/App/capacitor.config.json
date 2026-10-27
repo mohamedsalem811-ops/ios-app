@@ -1,0 +1,20 @@
+{
+  "appId": "com.salford.jewelrypos",
+  "appName": "SALFORD Jewelry",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#122452",
+  "ios": {
+    "contentInset": "automatic",
+    "allowsLinkPreview": false,
+    "scrollEnabled": true,
+    "backgroundColor": "#122452",
+    "preferredContentMode": "mobile"
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#122452"
+    }
+  }
+}
